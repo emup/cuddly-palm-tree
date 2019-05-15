@@ -52,7 +52,7 @@ if ($conn->connect_error) { die("
         /></label>
         <label for="field4"
           ><span>name <span class="required">*</span></span
-          ><input type="text" class="input-field" name="name" value="" required
+          ><input type="text" class="input-field" name="naam" value="" required
         /></label>
         <label for="field5"
           ><span>adres <span class="required">*</span></span
